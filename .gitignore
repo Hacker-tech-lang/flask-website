@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+git add .
+git commit -m "Initial commit for high-tech Python website"
+git remote add origin https://github.com/Hacker-tech-lang/flask-website.git
+git branch -M main
+git push -u origin main
